@@ -58,8 +58,7 @@ Do you have a fever?
 - Python 3.x (no external dependencies required)
 
 ## Important Disclaimer
-
-⚠️ **This is an educational project and NOT a substitute for professional medical advice.**
+ **This is an educational project and NOT a substitute for professional medical advice.**
 
 - This tool is designed for learning purposes only
 - It uses simplified decision tree logic
@@ -102,4 +101,5 @@ Potential improvements for advanced students:
 - Include treatment recommendations
 - Add a GUI interface
 - Store diagnosis history
+
 
